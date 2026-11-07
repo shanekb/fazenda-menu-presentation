@@ -1,0 +1,952 @@
+{
+  "585515": {
+    "image": "/menu-photos/photo-preview-cola.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "604292": {
+    "image": "/menu-photos/photo-preview-papaya.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "604295": {
+    "image": "/menu-photos/photo-preview-key-lime-pie.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "604297": {
+    "image": "/menu-photos/photo-preview-cheesecake.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "604299": {
+    "image": "/menu-photos/photo-preview-molten-cake.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676277": {
+    "image": "/menu-photos/photo-preview-caipirinha.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676279": {
+    "image": "/menu-photos/photo-preview-mojito.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676285": {
+    "image": "/menu-photos/photo-preview-mule.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676286": {
+    "image": "/menu-photos/photo-preview-bloody-mary.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676288": {
+    "image": "/menu-photos/photo-preview-pina-colada.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676289": {
+    "image": "/menu-photos/photo-preview-strong-island.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676290": {
+    "image": "/menu-photos/photo-preview-margarita.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676291": {
+    "image": "/menu-photos/photo-preview-martini.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676293": {
+    "image": "/menu-photos/photo-preview-cosmopolitan.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676301": {
+    "image": "/menu-photos/photo-preview-old-fashioned.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "676305": {
+    "image": "/menu-photos/photo-preview-manhattan.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679830": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679831": {
+    "image": "/menu-photos/photo-preview-dark-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679832": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679833": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679834": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679835": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679836": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679838": {
+    "image": "/menu-photos/photo-preview-cola.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679839": {
+    "image": "/menu-photos/photo-preview-lemon-soda.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679840": {
+    "image": "/menu-photos/photo-preview-orange-soda.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679841": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679842": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679843": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679844": {
+    "image": "/menu-photos/photo-preview-dark-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679845": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "679847": {
+    "image": "/menu-photos/ordering-679847.webp",
+    "photoCaption": "Restaurant ordering-page photo",
+    "photoSource": "https://d1ph6a2qqb4pcd.cloudfront.net/fit-in/800x800/filters:format(webp):/uploads/restaurant/menu/2026/04/08/124236899/image/cpSLUjvf9EHDHtNiQe80syZp16abW3eQAwEb2Qjx.jpg",
+    "imageType": "restaurant"
+  },
+  "679848": {
+    "image": "/menu-photos/ordering-679848.webp",
+    "photoCaption": "Restaurant ordering-page photo · two-drink presentation",
+    "photoSource": "https://d1ph6a2qqb4pcd.cloudfront.net/fit-in/800x800/filters:format(webp):/uploads/restaurant/menu/2026/04/08/124627818/image/MoAtBUQw0ifVLp2guAfxQ15Tu4OGgbQaLmkiNzEU.jpg",
+    "imageType": "restaurant"
+  },
+  "679850": {
+    "image": "/menu-photos/photo-preview-hot-tea.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679852": {
+    "image": "/menu-photos/photo-preview-cappuccino.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679854": {
+    "image": "/menu-photos/photo-preview-espresso.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679855": {
+    "image": "/menu-photos/photo-preview-coffee.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "679856": {
+    "image": "/menu-photos/photo-preview-coffee.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "680143": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680144": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680145": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680146": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680147": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680148": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680149": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680150": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680151": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680152": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680153": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680154": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680155": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680156": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680158": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680159": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680160": {
+    "image": "/menu-photos/photo-preview-liqueur.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "680161": {
+    "image": "/menu-photos/photo-preview-liqueur.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "680162": {
+    "image": "/menu-photos/photo-preview-liqueur.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "680163": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680164": {
+    "image": "/menu-photos/photo-preview-clear-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680165": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680166": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680167": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680168": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680170": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680171": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680172": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "680173": {
+    "image": "/menu-photos/photo-preview-amber-spirit.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "931958": {
+    "image": "/menu-photos/photo-preview-tres-leches.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "931976": {
+    "image": "/menu-photos/photo-preview-filet.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964598": {
+    "image": "/menu-photos/photo-preview-sidecar.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964601": {
+    "image": "/menu-photos/photo-preview-french-75.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964605": {
+    "image": "/menu-photos/photo-preview-strawberry-basil.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964609": {
+    "image": "/menu-photos/photo-preview-clover-club.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964611": {
+    "image": "/menu-photos/photo-preview-daiquiri.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "964656": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964659": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964664": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964665": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964666": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964667": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964668": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964671": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964672": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964673": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964681": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964682": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964683": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964684": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964690": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964691": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964692": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964693": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964694": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964698": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964699": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964700": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "964701": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "977889": {
+    "image": "/menu-photos/photo-14.jpg",
+    "imageType": "restaurant",
+    "photoCaption": "Restaurant dessert photo"
+  },
+  "977890": {
+    "image": "/menu-photos/photo-preview-cheesecake.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "977892": {
+    "image": "/menu-photos/photo-13.jpg",
+    "imageType": "restaurant",
+    "photoCaption": "Restaurant dessert photo"
+  },
+  "977906": {
+    "image": "/menu-photos/photo-12.jpg",
+    "imageType": "restaurant",
+    "photoCaption": "Birthday selection · restaurant’s Brazilian flan photo"
+  },
+  "989890": {
+    "image": "/menu-photos/photo-preview-papaya.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "989941": {
+    "image": "/menu-photos/ordering-989941.webp",
+    "photoCaption": "Restaurant ordering-page photo",
+    "photoSource": "https://d1ph6a2qqb4pcd.cloudfront.net/fit-in/800x800/filters:format(webp):/uploads/restaurant/menu/2026/04/08/124044711/image/y5hNE3dfHEPcTioylHpVj88kd5KQcEK8NXiTDXja.jpg",
+    "imageType": "restaurant"
+  },
+  "989942": {
+    "image": "/menu-photos/ordering-989942.webp",
+    "photoCaption": "Restaurant ordering-page photo",
+    "photoSource": "https://d1ph6a2qqb4pcd.cloudfront.net/fit-in/800x800/filters:format(webp):/uploads/restaurant/menu/2026/04/08/124114942/image/M08EdO27R2erNYBa8Co28JEnbSaaYskxm34GqcWR.jpg",
+    "imageType": "restaurant"
+  },
+  "989943": {
+    "image": "/menu-photos/ordering-989943.webp",
+    "photoCaption": "Restaurant ordering-page photo",
+    "photoSource": "https://d1ph6a2qqb4pcd.cloudfront.net/fit-in/800x800/filters:format(webp):/uploads/restaurant/menu/2026/04/08/125151762/image/RrvKh68YC0Kj6qoeWcuSqtP3oog8imGSAloi2FYH.jpg",
+    "imageType": "restaurant"
+  },
+  "989954": {
+    "image": "/menu-photos/photo-preview-raspberry-cheesecake.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "999052": {
+    "image": "/menu-photos/photo-preview-energy.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "999058": {
+    "image": "/menu-photos/photo-preview-water.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1167024": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167027": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167034": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167035": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167039": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167041": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167044": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167060": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167068": {
+    "image": "/menu-photos/photo-preview-iced-tea.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1167091": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167092": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167093": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167095": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167096": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167097": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167099": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167118": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167119": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167120": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167121": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167122": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167123": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167125": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167126": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167127": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167128": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167129": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167130": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167136": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167137": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167138": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167139": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167140": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167141": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167142": {
+    "image": "/menu-photos/photo-preview-rose-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167154": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167155": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167156": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167157": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167158": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167159": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167160": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167161": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167165": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167172": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167173": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167174": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167175": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167176": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167181": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167182": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167183": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1167184": {
+    "image": "/menu-photos/photo-preview-sparkling-wine.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207751": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207752": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207753": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207754": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207755": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207756": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207757": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207758": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207759": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1207760": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1373748": {
+    "image": "/menu-photos/photo-preview-alcatra.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373752": {
+    "image": "/menu-photos/photo-preview-baby-bife.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373753": {
+    "image": "/menu-photos/photo-preview-chicken-breast.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373754": {
+    "image": "/menu-photos/photo-preview-garlic-beef.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373755": {
+    "image": "/menu-photos/photo-preview-lamb-steak.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373761": {
+    "image": "/menu-photos/photo-preview-pork-loin.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1373763": {
+    "image": "/menu-photos/photo-preview-bacon-steak.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
+  },
+  "1427678": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427679": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427680": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427681": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427682": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427683": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427684": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427685": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427686": {
+    "image": "/menu-photos/photo-preview-red-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "1427687": {
+    "image": "/menu-photos/photo-preview-white-wine-glass.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  },
+  "2268758": {
+    "image": "/menu-photos/photo-preview-beer.jpg",
+    "imageType": "concept",
+    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+  }
+}
