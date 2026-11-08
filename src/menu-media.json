@@ -95,9 +95,9 @@
     "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
   },
   "679833": {
-    "image": "/menu-photos/photo-preview-beer.jpg",
+    "image": "/menu-photos/blue-moon-preview-v1.jpg",
     "imageType": "concept",
-    "photoCaption": "AI-generated drink-style preview · not the named bottle or an actual restaurant serving"
+    "photoCaption": "AI Blue Moon presentation preview · replace with the restaurant’s actual bottle and poured beer photograph."
   },
   "679834": {
     "image": "/menu-photos/photo-preview-beer.jpg",
@@ -500,6 +500,11 @@
     "image": "/menu-photos/photo-13.jpg",
     "imageType": "restaurant",
     "photoCaption": "Restaurant dessert photo"
+  },
+  "977904": {
+    "image": "/menu-photos/photo-4.jpg",
+    "imageType": "restaurant",
+    "photoCaption": "Collage of the restaurant’s picanha, ribeye, and salad-bar photos. The full dinner also includes the published hot dishes and sides."
   },
   "977906": {
     "image": "/menu-photos/photo-12.jpg",

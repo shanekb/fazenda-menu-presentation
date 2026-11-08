@@ -111,6 +111,8 @@ export const menu:MenuItem[]=raw.map(i=>{
   const target=raw.find(x=>x.id==='menu_item_'+linkedPrices[id]);
   if(target){displayPrices=[...target.prices];displayName=`${matchNames[id].replaceAll('|',' · ')}${id==='1427681'?'':' · Sauvignon Blanc'}`;priceNote='Price matched to the same named selection in another section of the restaurant’s published drink menu. Confirm the bottle and vintage with staff.';}
  }
+ if(id==='977904'){subtitle='Churrasco, salad bar, hot dishes & sides';priceContext='Full dinner experience';}
+ if(id==='931960'){priceContext='Salad-bar buffet';}
  const extra=(media as Record<string,{image?:string;photoCaption?:string;imageType?:string}>)[id];
  const image=extra?.image||(id==='1373763'?null:i.image);
  return {...i,image,displayName,group,section,subtitle,description,story,priceNote,displayPrices,priceContext,photoCaption:extra?.photoCaption||(image?'Photo from the restaurant’s published menu':''),imageType:extra?.imageType||(image?'restaurant':'pending')};
