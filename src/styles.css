@@ -20,3 +20,39 @@
 
 /* Keep named bottles and cans fully visible, including their labels. */
 .view-gallery .menu-thumb.brand-package{height:auto;aspect-ratio:1}.view-gallery .menu-thumb.brand-package>img{object-fit:contain}.view-gallery .menu-item[open] .menu-thumb.brand-package{height:auto;aspect-ratio:1}
+
+/* A complete dinner needs a complete visual story. */
+.dinner-collage{grid-template-columns:1.5fr 1fr 1fr;grid-template-rows:1fr 1fr;gap:3px}
+.dinner-collage .collage-salad{grid-column:1;grid-row:1/3;object-position:48% 50%}
+.dinner-item .item-expanded{display:block}
+.dinner-item .item-expanded>.item-photo{display:none}
+.dinner-item .item-story{max-width:850px;margin-bottom:38px}
+.dinner-spread{border-top:1px solid var(--line);padding-top:32px}
+.dinner-spread-heading{max-width:650px;margin-bottom:26px}
+.dinner-spread-heading h3{font-family:Georgia,serif;font-size:36px;font-weight:400;line-height:1.15;margin:12px 0;color:var(--cream)}
+.dinner-spread p{color:var(--muted);font-size:14px;line-height:1.7}
+.dinner-opening{display:grid;grid-template-columns:1.65fr 1fr;gap:18px}
+.dinner-photo-card{margin:0;min-width:0}
+.dinner-photo-card>div{position:relative;aspect-ratio:1;overflow:hidden;background:#23251f}
+.dinner-photo-card img{display:block;width:100%;height:100%;object-fit:cover}
+.dinner-photo-card>div>span{position:absolute;left:0;bottom:0;padding:8px 10px;background:linear-gradient(transparent,rgba(0,0,0,.8));width:100%;color:#eee6d3;font-size:10px;letter-spacing:.03em}
+.dinner-photo-card figcaption{padding-top:12px}
+.dinner-photo-card figcaption strong{display:block;font-family:Georgia,serif;font-size:22px;line-height:1.15;font-weight:400;color:var(--cream)}
+.dinner-photo-card figcaption small{display:block;font-size:12px;color:var(--muted);line-height:1.6;margin-top:6px}
+.dinner-opening .dinner-photo-card>div{aspect-ratio:auto;height:330px}
+.dinner-photo-group{margin-top:36px}
+.dinner-photo-group h4{font-family:Georgia,serif;font-size:28px;color:var(--gold);font-weight:400;margin:0 0 6px}
+.dinner-photo-group>p{margin:0 0 18px}
+.dinner-photo-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px 18px}
+.dinner-spread .dinner-image-note{margin:28px 0 0;padding-top:20px;border-top:1px solid var(--line);font-size:12px;line-height:1.7}
+@media(max-width:640px){
+ .dinner-spread{padding-top:24px}
+ .dinner-spread-heading h3{font-size:29px}
+ .dinner-opening{grid-template-columns:1.5fr 1fr;gap:10px}
+ .dinner-opening .dinner-photo-card>div{height:220px}
+ .dinner-photo-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 12px}
+ .dinner-photo-card figcaption strong{font-size:20px}
+ .dinner-photo-card figcaption small{font-size:11px}
+ .dinner-photo-group h4{font-size:25px}
+ .dinner-item .item-story{margin-bottom:28px}
+}
