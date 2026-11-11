@@ -1,5 +1,5 @@
 "use client";
-import {useMemo,useState} from "react";
+import {useEffect,useMemo,useState} from "react";
 import {Search,ChevronDown,X,ArrowUpRight,Flame,Wine,GlassWater,LayoutGrid,List} from "lucide-react";
 import {menu,groups,type MenuItem} from "./menu-data";
 
@@ -30,7 +30,9 @@ function Item({item,prefix=''}:{item:MenuItem;prefix?:string}){
  return <details className={`menu-item${item.id==='menu_item_977904'?' dinner-item':''}`} id={prefix+item.id}><summary>{item.image&&<span className={`menu-thumb${/brand preview/i.test(item.photoCaption)?' brand-package':''}`}>{item.id==='menu_item_977904'?<DinnerCollage/>:<img src={asset(item.image)} alt={item.imageType==='concept'?'AI preview of '+item.displayName:item.displayName} loading="lazy"/>}<span className="thumb-label">{item.id==='menu_item_977904'?'Restaurant + AI photos · collage':item.imageType==='concept'?(/brand preview/i.test(item.photoCaption)?'AI brand preview':item.group==='Wine & bubbles'||item.group==='Spirits'||item.group==='Beer'?'AI glass preview':'AI preview'):'Restaurant photo'}</span></span>}<span className="item-name">{item.displayName}<span className="item-short">{item.subtitle}{item.imageType==='concept'&&<small className="illustration-tag">AI preview</small>}</span></span><Price item={item}/><span className="expand-icon"><ChevronDown size={18}/></span></summary><div className="item-expanded"><div className="item-photo">{item.id==='menu_item_977904'?<DinnerCollage/>:item.image&&!failed?<img src={asset(item.image)} alt={item.imageType==='concept'?'AI preview of '+item.displayName:item.displayName} loading="lazy" onError={()=>setFailed(true)}/>:<div className="photo-space"><span className="photo-monogram">f.</span><span>{item.kind==='food'?'FROM THE KITCHEN':'FROM THE BAR'}</span><small>Photography to follow</small></div>}{item.photoCaption&&<span className="photo-label">{item.photoCaption}</span>}</div><div className="item-story"><p className="gallery-photo-note">{item.photoCaption}</p><span className="eyebrow">A CLOSER LOOK</span><h3>{item.displayName}</h3><p>{item.description}</p><div className="story-note"><span className="eyebrow">{item.kind==='food'?'THE CHARACTER':'THE MOMENT'}</span><p>{item.story}</p></div>{item.priceNote&&<p className="price-explainer">{item.priceNote}</p>}</div>{item.id==='menu_item_977904'&&<DinnerSpread/>}</div></details>
 }
 export default function Home(){
- const[tab,setTab]=useState('Food'),[filter,setFilter]=useState('All'),[query,setQuery]=useState(''),[period,setPeriod]=useState('month'),[view,setView]=useState('gallery');
+ const entry=new URLSearchParams(window.location.search).get('menu');
+ useEffect(()=>{if(entry==='drinks'||entry==='desserts')document.getElementById('menu')?.scrollIntoView();},[]);
+ const[tab,setTab]=useState(entry==='drinks'?'Drinks':'Food'),[filter,setFilter]=useState(entry==='desserts'?'Desserts':'All'),[query,setQuery]=useState(''),[period,setPeriod]=useState('month'),[view,setView]=useState('gallery');
  const filters=tab==='Food'?['All','Dining experience','Churrasco cuts','Seafood','Desserts']:['All','Signature cocktails','Alcohol-free','Beer','Wine & bubbles','Spirits'];
  const normalize=(s:string)=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
  const filtered=useMemo(()=>menu.filter(i=>(tab==='Food'?i.kind==='food':i.kind==='drink')&&(filter==='All'||i.group===filter)&&(!query||normalize(`${i.displayName} ${i.description} ${i.category} ${i.group}`).includes(normalize(query)))),[tab,filter,query]);
