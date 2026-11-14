@@ -421,11 +421,11 @@
     "id": "menu_item_585515",
     "kind": "drink",
     "category": "Soft Drinks",
-    "name": "Coke",
+    "name": "Mexican Coca-Cola",
     "prices": [
       "$3.50"
     ],
-    "originalDescription": "",
+    "originalDescription": "Glass bottle",
     "sourceImage": "",
     "image": null
   },
@@ -514,18 +514,6 @@
     "image": null
   },
   {
-    "id": "menu_item_679830",
-    "kind": "drink",
-    "category": "Cans/Bottles",
-    "name": "Brahma",
-    "prices": [
-      "$8.50"
-    ],
-    "originalDescription": "Brazil 4.8% ALc.",
-    "sourceImage": "",
-    "image": null
-  },
-  {
     "id": "menu_item_679831",
     "kind": "drink",
     "category": "Cans/Bottles",
@@ -552,7 +540,7 @@
   {
     "id": "menu_item_679833",
     "kind": "drink",
-    "category": "Cans/Bottles",
+    "category": "Draft Beer",
     "name": "Blue Moon",
     "prices": [
       "$6.50"
@@ -600,12 +588,22 @@
   {
     "id": "menu_item_679841",
     "kind": "drink",
-    "category": "Cans/Bottles",
+    "category": "Draft Beer",
     "name": "Surly Furious IPA",
     "prices": [
       "$8.50"
     ],
     "originalDescription": "MN 6.7% ABV",
+    "sourceImage": "",
+    "image": null
+  },
+  {
+    "id": "menu_item_bent_paddle_draft",
+    "kind": "drink",
+    "category": "Draft Beer",
+    "name": "Bent Paddle draft",
+    "prices": [],
+    "originalDescription": "Ask your server for the current selection and price.",
     "sourceImage": "",
     "image": null
   },

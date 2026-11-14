@@ -1,8 +1,8 @@
 {
   "585515": {
-    "image": "/menu-photos/brand-coca-cola-v1.jpg",
+    "image": "/menu-photos/mexican-coke-bottle-v2.png",
     "imageType": "concept",
-    "photoCaption": "AI Coca-Cola Original Taste brand preview · confirm the restaurant’s actual packaging, size and serving."
+    "photoCaption": "AI Mexican Coca-Cola glass bottle preview · actual restaurant photo to follow."
   },
   "604292": {
     "image": "/menu-photos/photo-preview-papaya.jpg",
@@ -79,11 +79,6 @@
     "imageType": "concept",
     "photoCaption": "AI-generated presentation preview · professional restaurant photo to follow"
   },
-  "679830": {
-    "image": "/menu-photos/brand-brahma-v1.jpg",
-    "imageType": "concept",
-    "photoCaption": "AI Brahma beer brand preview · confirm the restaurant’s actual packaging, size and serving."
-  },
   "679831": {
     "image": "/menu-photos/brand-xingu-v1.jpg",
     "imageType": "concept",
@@ -95,9 +90,9 @@
     "photoCaption": "AI Bud Light brand preview · confirm the restaurant’s actual packaging, size and serving."
   },
   "679833": {
-    "image": "/menu-photos/blue-moon-preview-v1.jpg",
+    "image": "/menu-photos/draft-wheat-v2.png",
     "imageType": "concept",
-    "photoCaption": "AI Blue Moon brand preview · replace with the restaurant’s actual bottle and poured beer photograph."
+    "photoCaption": "AI draft beer preview · mug only; actual restaurant photo to follow."
   },
   "679834": {
     "image": "/menu-photos/brand-budweiser-v1.jpg",
@@ -130,9 +125,9 @@
     "photoCaption": "AI glass preview · exact bottle selection to be confirmed with the restaurant."
   },
   "679841": {
-    "image": "/menu-photos/brand-surly-furious-v1.jpg",
+    "image": "/menu-photos/draft-ipa-v2.png",
     "imageType": "concept",
-    "photoCaption": "AI Surly Furious IPA brand preview · confirm the restaurant’s actual packaging, size and serving."
+    "photoCaption": "AI draft beer preview · mug only; actual restaurant photo to follow."
   },
   "679842": {
     "image": "/menu-photos/brand-fulton-lonely-blonde-v1.jpg",
@@ -953,5 +948,10 @@
     "image": "/menu-photos/brand-michelob-golden-light-v1.jpg",
     "imageType": "concept",
     "photoCaption": "AI Michelob Golden Light brand preview · confirm the restaurant’s actual packaging, size and serving."
+  },
+  "bent_paddle_draft": {
+    "image": "/menu-photos/draft-ipa-v2.png",
+    "imageType": "concept",
+    "photoCaption": "AI draft beer preview · mug only; actual restaurant photo to follow."
   }
 }

@@ -69,7 +69,8 @@ export const groups:Record<string,string>={
  'Signature cocktails':'Brazilian favorites and familiar classics, made for the moment.',
  'Soft drinks & alcohol-free':'A considered choice for every guest at the table.',
  'Coffee & tea':'A warm pause before the evening ends.',
- 'Beer':'The published bottle and can selection.',
+ 'Beer':'The bottle and can selection.',
+ 'Draft beer':'Freshly poured from the restaurant taps.',
 };
 const spirits=['Whiskey','Gin','Tequila','Rum','Cordails','Vodka','Bourbon','Scotch'];
 export const menu:MenuItem[]=raw.map(i=>{
@@ -92,7 +93,10 @@ export const menu:MenuItem[]=raw.map(i=>{
    '999052':['Red Bull, listed as an 8.4 oz serving.','A familiar option from the soft-drink selection.'],
    '999058':['San Pellegrino from the published soft-drink selection. Confirm bottle size with your server.','A simple pause between tastes.']};
   if(special[id])[description,story]=special[id];else{description=`${i.name}, from the published ${i.category.toLowerCase()} selection.`;story=i.category==='Coffee'?'A warm finish, with a little time left for conversation.':i.category==='Tea'?'A quiet moment to make the evening last a little longer.':'A familiar refreshment, ready to accompany your meal.'}
+  if(id==='585515'){displayName='Mexican Coca-Cola';subtitle='Glass bottle';description='Mexican Coca-Cola served in a glass bottle.';story='A classic glass-bottle refreshment.';}
   if(id==='679847')displayName='Guaraná';if(id==='136')displayName=i.name;
+ }else if(i.category==='Draft Beer'){
+  group='Beer';section='Draft beer';subtitle='On tap · served in a mug';description=i.id==='menu_item_bent_paddle_draft'?'Bent Paddle on tap. Ask your server for the current selection and price.':`${i.name}, served on tap in a mug.`;story='Freshly poured at the Fazenda bar. Ask your server about the current selection and serving size.';
  }else if(i.category==='Cans/Bottles'){
   group=section='Beer';subtitle=i.originalDescription||'Bottle / can selection';description=`${i.name}, from the published bottle and can selection.${i.originalDescription?' Listed details: '+i.originalDescription+'.':''}`;story=['679830','679831'].includes(id)?'A Brazilian beer selection to explore alongside the food.':'A familiar beer option to accompany your meal.';
  }else if(spirits.includes(i.category)){
